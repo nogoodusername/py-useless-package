@@ -14,7 +14,7 @@ def read(filename):
 
 setup(
     name="useless",
-    version='1.0.0',
+    version='1.1.0',
     url="https://github.com/nogoodusername/py-useless-package",
 
     author="KN",
