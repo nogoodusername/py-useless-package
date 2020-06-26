@@ -1,6 +1,6 @@
 # useless
 
-This is an example package d
+This is an example package. Generated using https://github.com/nogoodusername/cookiecutter-pypackage-template
 
 ## Features
 * TODO
